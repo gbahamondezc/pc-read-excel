@@ -1,0 +1,22 @@
+{
+  "name": "pc-read-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbahamondezc/pc-read-excel.git"
+  },
+  "author": "Gonzalo Bahamondez <gonzalo.bahamondez.c@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbahamondezc/pc-read-excel/issues"
+  },
+  "homepage": "https://github.com/gbahamondezc/pc-read-excel#readme",
+  "dependencies": {
+    "xlsx": "^0.14.0"
+  }
+}
